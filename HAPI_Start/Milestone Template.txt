@@ -1,0 +1,23 @@
+Alex Quesada
+Milestone 2 26/10/2017
+--------------------------------
+
+New Functionality
+-----------------
+Blitting optimised when alpha is 0 or 255
+Control a 2nd circle with same texture but changing the colour by a new Function
+
+Code Additions
+--------------
+Visualisation and Sprite class with functions implementation
+
+
+Tests
+-----
+I have rendered 100 textures where the position is changing constantly by calculating random numbers width around 160fps
+
+
+Notes
+-----
+
+

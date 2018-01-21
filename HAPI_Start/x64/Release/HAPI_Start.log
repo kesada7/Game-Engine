@@ -1,0 +1,35 @@
+﻿  BackgroundEntity.cpp
+  EnemyEntity.cpp
+  Entity.cpp
+  main.cpp
+  PlayerEntity.cpp
+  Rectangle.cpp
+  Sprite.cpp
+  Vector2.cpp
+  Visualisation.cpp
+  World.cpp
+  Generating Code...
+     Creating library D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_Start.lib and object D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_Start.exp
+HAPI64.lib(Error.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(Error.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiCore.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiCore.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiMain.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiMain.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiOsSFML.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiOsSFML.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiRendererSFML.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiRendererSFML.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiSoundSFML.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiSoundSFML.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(HapiXInput.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(HapiXInput.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(PerfCounters.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(PerfCounters.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(SFMLFontManager.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(SFMLFontManager.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(stdafx.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(stdafx.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(Utility.obj) : warning LNK4099: PDB 'HAPI_LIB.pdb' was not found with 'HAPI64.lib(Utility.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_LIB.pdb'; linking object as if no debug info
+HAPI64.lib(VideoStream.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(VideoStream.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Utilities.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Utilities.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(TimerPriorities.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(TimerPriorities.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Timer.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Timer.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(SubtitleStream.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(SubtitleStream.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Stream.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Stream.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(MovieImpl.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(MovieImpl.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Movie.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Movie.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Log.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Log.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(Demuxer.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(Demuxer.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+HAPI64.lib(AudioStream.obj) : warning LNK4099: PDB 'SfeMovie.pdb' was not found with 'HAPI64.lib(AudioStream.obj)' or at 'D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\SfeMovie.pdb'; linking object as if no debug info
+  HAPI_Start.vcxproj -> D:\universidad\Game Engine Ica2\HAPI_Start Milstone final\x64\Release\HAPI_Start.exe
